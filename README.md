@@ -1,2 +1,3 @@
 # Overview
 
+ShopSmart is a data-driven application designed to help users reduce the time and effort required to find the cheapest groceries. In today’s world, users often need to manually compare prices across multiple stores or platforms, which is inefficient, repetitive, and frustrating. This project addresses that problem by allowing users to input a list of grocery items and automatically aggregating and analyzing product pricing data from different sources to determine the most cost-effective store for the entire basket. By building a pipeline that collects, cleans, stores, and processes pricing data, ShopSmart enables users to receive data-informed recommendations that optimize their shopping decisions and help them save both time and money.
