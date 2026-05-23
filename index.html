@@ -1,0 +1,39 @@
+<div class="card">
+  <div class="card-content">
+    <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img
+            src="https://files.realpython.com/media/real-python-logo-thumbnail.7f0db70c2ed2.jpg"
+            alt="Real Python Logo"
+          />
+        </figure>
+      </div>
+      <div class="media-content">
+        <h2 class="title is-5">Senior Python Developer</h2>
+        <h3 class="subtitle is-6 company">Payne, Roberts and Davis</h3>
+      </div>
+    </div>
+
+    <div class="content">
+      <p class="location">Stewartbury, AA</p>
+      <p class="is-small has-text-grey">
+        <time datetime="2021-04-08">2021-04-08</time>
+      </p>
+    </div>
+    <footer class="card-footer">
+      <a
+        href="https://www.realpython.com"
+        target="_blank"
+        class="card-footer-item"
+        >Learn</a
+      >
+      <a
+        href="https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html"
+        target="_blank"
+        class="card-footer-item"
+        >Apply</a
+      >
+    </footer>
+  </div>
+</div>
